@@ -1,0 +1,22 @@
+{
+  "name": "node_mongo",
+  "version": "1.0.0",
+  "description": "Example node with mongo db",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julianommartins/node_mongo.git"
+  },
+  "author": "Juliano Marcos Martins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julianommartins/node_mongo/issues"
+  },
+  "homepage": "https://github.com/julianommartins/node_mongo#readme",
+  "dependencies": {
+    "mongodb": "^3.3.3"
+  }
+}
